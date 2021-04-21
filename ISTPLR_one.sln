@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISTPLR_one", "ISTPLR_one.csproj", "{001030E5-474F-4AB3-9989-622F4E8D8ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001030E5-474F-4AB3-9989-622F4E8D8ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001030E5-474F-4AB3-9989-622F4E8D8ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001030E5-474F-4AB3-9989-622F4E8D8ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001030E5-474F-4AB3-9989-622F4E8D8ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B10387-FFF2-475A-B4AF-16C95A3CB5A0}
+	EndGlobalSection
+EndGlobal
